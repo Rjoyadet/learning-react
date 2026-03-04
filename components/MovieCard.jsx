@@ -8,7 +8,7 @@ const favorite = isFavorite(movie.id)
         e.preventDefault()
         if (favorite) removeFromFavorites(movie.id)
             else addToFavorites(movie)
-    }
+    } 
 
     return <div className="movie-card">
         <div className="movie-poster">
@@ -25,5 +25,6 @@ const favorite = isFavorite(movie.id)
         </div>
     </div>
 }
+
 
 export default MovieCard
