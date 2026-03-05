@@ -6,3 +6,5 @@ The framework is overwhemling.
 But I can see why so many want to use it. 
 
 So the page APP dot jsx is what makes it available on mobile devices. I am seeing that there is a css page for that as well. 
+
+Components are a lot like Javascript. 
